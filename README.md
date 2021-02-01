@@ -1,4 +1,5 @@
-### Hi there 👋
+## This is Kotaro.👋
+I'm a developer/engineer in Kanazawa, Japan. 
 
 <!--
 **kotaronov27/kotaronov27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
