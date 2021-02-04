@@ -1,4 +1,4 @@
-## This is Kotaro.👋
+## Hi there 👋
 I'm a developer/engineer in Kanazawa, Japan. 
 
 [My skills and experience (Japanese).](https://github.com/kotaronov27/resume)
